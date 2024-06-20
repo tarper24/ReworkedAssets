@@ -2171,5 +2171,50 @@
   {
     "id": "standard0031",
     "name": "bird"
+  },
+  {
+    "id": "saborhatblood",
+    "name": "Blood Rogue",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatbryoo",
+    "name": "Bryoo",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatmarkus",
+    "name": "Markus",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatmishka",
+    "name": "Mishka",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatnymos",
+    "name": "Nymos",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatorion",
+    "name": "Orion",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatpotao",
+    "name": "Potao",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatyves",
+    "name": "Yves",
+    "artist": "Sabortoof Teegar"
+  },
+  {
+    "id": "saborhatzerda",
+    "name": "Zerda",
+    "artist": "Sabortoof Teegar"
   }
 ]
